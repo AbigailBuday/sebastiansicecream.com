@@ -1,0 +1,1556 @@
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:300%2C400%2C600%2C700%2C800%2C300italic%2C400italic%2C600italic%2C700italic%2C800italic|Montserrat:100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%2C100italic%2C200italic%2C300italic%2C400italic%2C500italic%2C600italic%2C700italic%2C800italic%2C900italic&subset=latin&ver=1595914321
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:400%2C400i%2C600%2C600i%2C700%2C700i|Montserrat:400%2C500%2C600%2C700&subset=latin%2Clatin-ext&ver=2.6
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\css
+Content Type: text/css
+
+Uri: https://sebastiansicecream.com/
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\index-1.htm
+Content Type: text/html
+
+Uri: https://sebastiansicecream.com/?fbclid=IwAR2XM-okvvulGtsWY9w6DMlnPiWZYOEVjXjEYEurbefX1Z5lSszuHsJAaO0
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\index.htm
+Content Type: text/html
+
+Uri: https://sebastiansicecream.com/cart/
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\cart\index.htm
+Content Type: text/html
+
+Uri: https://sebastiansicecream.com/comments/feed/
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://sebastiansicecream.com/feed/
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://sebastiansicecream.com/ice-creams/
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\ice-creams\index.htm
+Content Type: text/html
+
+Uri: https://sebastiansicecream.com/ice-creams/?add-to-cart=2443
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\ice-creams\index-5.htm
+Content Type: text/html
+
+Uri: https://sebastiansicecream.com/ice-creams/?add-to-cart=2446
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\ice-creams\index-4.htm
+Content Type: text/html
+
+Uri: https://sebastiansicecream.com/ice-creams/?add-to-cart=2504
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\ice-creams\index-6.htm
+Content Type: text/html
+
+Uri: https://sebastiansicecream.com/ice-creams/?add-to-cart=2505
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\ice-creams\index-7.htm
+Content Type: text/html
+
+Uri: https://sebastiansicecream.com/ice-creams/?add-to-cart=2507
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\ice-creams\index-13.htm
+Content Type: text/html
+
+Uri: https://sebastiansicecream.com/ice-creams/?add-to-cart=2509
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\ice-creams\index-12.htm
+Content Type: text/html
+
+Uri: https://sebastiansicecream.com/ice-creams/?add-to-cart=2514
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\ice-creams\index-19.htm
+Content Type: text/html
+
+Uri: https://sebastiansicecream.com/ice-creams/?add-to-cart=2515
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\ice-creams\index-17.htm
+Content Type: text/html
+
+Uri: https://sebastiansicecream.com/ice-creams/?add-to-cart=2516
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\ice-creams\index-15.htm
+Content Type: text/html
+
+Uri: https://sebastiansicecream.com/ice-creams/?add-to-cart=2591
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\ice-creams\index-10.htm
+Content Type: text/html
+
+Uri: https://sebastiansicecream.com/ice-creams/?add-to-cart=2593
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\ice-creams\index-11.htm
+Content Type: text/html
+
+Uri: https://sebastiansicecream.com/ice-creams/?add-to-cart=2687
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\ice-creams\index-8.htm
+Content Type: text/html
+
+Uri: https://sebastiansicecream.com/ice-creams/?add-to-cart=2688
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\ice-creams\index-14.htm
+Content Type: text/html
+
+Uri: https://sebastiansicecream.com/ice-creams/?add-to-cart=3224
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\ice-creams\index-18.htm
+Content Type: text/html
+
+Uri: https://sebastiansicecream.com/ice-creams/?add-to-cart=5295
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\ice-creams\index-16.htm
+Content Type: text/html
+
+Uri: https://sebastiansicecream.com/ice-creams/?add-to-cart=5302
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\ice-creams\index-21.htm
+Content Type: text/html
+
+Uri: https://sebastiansicecream.com/ice-creams/?add-to-cart=5303
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\ice-creams\index-20.htm
+Content Type: text/html
+
+Uri: https://sebastiansicecream.com/ice-creams/?add-to-cart=5544
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\ice-creams\index-3.htm
+Content Type: text/html
+
+Uri: https://sebastiansicecream.com/ice-creams/?add-to-cart=6101
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\ice-creams\index-9.htm
+Content Type: text/html
+
+Uri: https://sebastiansicecream.com/ice-creams/?add-to-cart=6171
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\ice-creams\index-2.htm
+Content Type: text/html
+
+Uri: https://sebastiansicecream.com/ice-creams/?add-to-cart=6172
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\ice-creams\index-1.htm
+Content Type: text/html
+
+Uri: https://sebastiansicecream.com/product-category/sebastians-original/
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\product-category\sebastians-original\index.htm
+Content Type: text/html
+
+Uri: https://sebastiansicecream.com/product-category/sebastians-original/?add-to-cart=2505
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\product-category\sebastians-original\index-2.htm
+Content Type: text/html
+
+Uri: https://sebastiansicecream.com/product-category/sebastians-original/?add-to-cart=2507
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\product-category\sebastians-original\index-5.htm
+Content Type: text/html
+
+Uri: https://sebastiansicecream.com/product-category/sebastians-original/?add-to-cart=2509
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\product-category\sebastians-original\index-4.htm
+Content Type: text/html
+
+Uri: https://sebastiansicecream.com/product-category/sebastians-original/?add-to-cart=2513
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\product-category\sebastians-original\index-8.htm
+Content Type: text/html
+
+Uri: https://sebastiansicecream.com/product-category/sebastians-original/?add-to-cart=2593
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\product-category\sebastians-original\index-3.htm
+Content Type: text/html
+
+Uri: https://sebastiansicecream.com/product-category/sebastians-original/?add-to-cart=2688
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\product-category\sebastians-original\index-6.htm
+Content Type: text/html
+
+Uri: https://sebastiansicecream.com/product-category/sebastians-original/?add-to-cart=4794
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\product-category\sebastians-original\index-7.htm
+Content Type: text/html
+
+Uri: https://sebastiansicecream.com/product-category/sebastians-original/?add-to-cart=5303
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\product-category\sebastians-original\index-1.htm
+Content Type: text/html
+
+Uri: https://sebastiansicecream.com/product-category/sebastians-original/feed/
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\product-category\sebastians-original\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://sebastiansicecream.com/product/butter-pecan/
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\product\butter-pecan\index.htm
+Content Type: text/html
+
+Uri: https://sebastiansicecream.com/product/champorado-dilis/
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\product\champorado-dilis\index.htm
+Content Type: text/html
+
+Uri: https://sebastiansicecream.com/product/champorado/
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\product\champorado\index.htm
+Content Type: text/html
+
+Uri: https://sebastiansicecream.com/product/chocoholics-anonymous/
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\product\chocoholics-anonymous\index.htm
+Content Type: text/html
+
+Uri: https://sebastiansicecream.com/product/cookie-dough/
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\product\cookie-dough\index.htm
+Content Type: text/html
+
+Uri: https://sebastiansicecream.com/product/green-mango-bagoong/
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\product\green-mango-bagoong\index.htm
+Content Type: text/html
+
+Uri: https://sebastiansicecream.com/product/green-mango-chili-sugar/
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\product\green-mango-chili-sugar\index.htm
+Content Type: text/html
+
+Uri: https://sebastiansicecream.com/product/manggat-suman/
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\product\manggat-suman\index.htm
+Content Type: text/html
+
+Uri: https://sebastiansicecream.com/product/mango-sansrival/
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\product\mango-sansrival\index.htm
+Content Type: text/html
+
+Uri: https://sebastiansicecream.com/product/mango-sorbet/
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\product\mango-sorbet\index.htm
+Content Type: text/html
+
+Uri: https://sebastiansicecream.com/product/once-in-a-blue-moon/
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\product\once-in-a-blue-moon\index.htm
+Content Type: text/html
+
+Uri: https://sebastiansicecream.com/product/philly-vanilla/
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\product\philly-vanilla\index.htm
+Content Type: text/html
+
+Uri: https://sebastiansicecream.com/product/sapin-sapin/
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\product\sapin-sapin\index.htm
+Content Type: text/html
+
+Uri: https://sebastiansicecream.com/product/strawberry-sorbet/
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\product\strawberry-sorbet\index.htm
+Content Type: text/html
+
+Uri: https://sebastiansicecream.com/product/strawberry-supreme-2/
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\product\strawberry-supreme-2\index.htm
+Content Type: text/html
+
+Uri: https://sebastiansicecream.com/product/sweet-freedom-butter-pecan/
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\product\sweet-freedom-butter-pecan\index.htm
+Content Type: text/html
+
+Uri: https://sebastiansicecream.com/product/sweet-freedom-dark-chocolate/
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\product\sweet-freedom-dark-chocolate\index.htm
+Content Type: text/html
+
+Uri: https://sebastiansicecream.com/product/sweet-freedom-mocha-almond/
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\product\sweet-freedom-mocha-almond\index.htm
+Content Type: text/html
+
+Uri: https://sebastiansicecream.com/product/sweet-freedom-sapin-sapin/
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\product\sweet-freedom-sapin-sapin\index.htm
+Content Type: text/html
+
+Uri: https://sebastiansicecream.com/product/sweet-freedom-tibok-tibok/
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\product\sweet-freedom-tibok-tibok\index.htm
+Content Type: text/html
+
+Uri: https://sebastiansicecream.com/product/sweet-freedom-ubetopia/
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\product\sweet-freedom-ubetopia\index.htm
+Content Type: text/html
+
+Uri: https://sebastiansicecream.com/product/sweet-freedom-vanilla/
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\product\sweet-freedom-vanilla\index.htm
+Content Type: text/html
+
+Uri: https://sebastiansicecream.com/product/ube-champorado/
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\product\ube-champorado\index.htm
+Content Type: text/html
+
+Uri: https://sebastiansicecream.com/product/up-all-night/
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\product\up-all-night\index.htm
+Content Type: text/html
+
+Uri: https://sebastiansicecream.com/sebastians-artisan-icecream/
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\sebastians-artisan-icecream\index.htm
+Content Type: text/html
+
+Uri: https://sebastiansicecream.com/sebastians-artisan-icecream/?add-to-cart=2504
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\sebastians-artisan-icecream\index-3.htm
+Content Type: text/html
+
+Uri: https://sebastiansicecream.com/sebastians-artisan-icecream/?add-to-cart=2507
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\sebastians-artisan-icecream\index-7.htm
+Content Type: text/html
+
+Uri: https://sebastiansicecream.com/sebastians-artisan-icecream/?add-to-cart=2514
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\sebastians-artisan-icecream\index-4.htm
+Content Type: text/html
+
+Uri: https://sebastiansicecream.com/sebastians-artisan-icecream/?add-to-cart=2688
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\sebastians-artisan-icecream\index-8.htm
+Content Type: text/html
+
+Uri: https://sebastiansicecream.com/sebastians-artisan-icecream/?add-to-cart=4794
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\sebastians-artisan-icecream\index-9.htm
+Content Type: text/html
+
+Uri: https://sebastiansicecream.com/sebastians-artisan-icecream/?add-to-cart=5295
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\sebastians-artisan-icecream\index-2.htm
+Content Type: text/html
+
+Uri: https://sebastiansicecream.com/sebastians-artisan-icecream/?add-to-cart=5302
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\sebastians-artisan-icecream\index-6.htm
+Content Type: text/html
+
+Uri: https://sebastiansicecream.com/sebastians-artisan-icecream/?add-to-cart=5303
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\sebastians-artisan-icecream\index-5.htm
+Content Type: text/html
+
+Uri: https://sebastiansicecream.com/sebastians-artisan-icecream/?add-to-cart=6166
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\sebastians-artisan-icecream\index-1.htm
+Content Type: text/html
+
+Uri: https://sebastiansicecream.com/sebastians-seasonal-flavors/
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\sebastians-seasonal-flavors\index.htm
+Content Type: text/html
+
+Uri: https://sebastiansicecream.com/sebastians-seasonal-flavors/?add-to-cart=6166
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\sebastians-seasonal-flavors\index-4.htm
+Content Type: text/html
+
+Uri: https://sebastiansicecream.com/sebastians-seasonal-flavors/?add-to-cart=6171
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\sebastians-seasonal-flavors\index-3.htm
+Content Type: text/html
+
+Uri: https://sebastiansicecream.com/sebastians-seasonal-flavors/?add-to-cart=6172
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\sebastians-seasonal-flavors\index-2.htm
+Content Type: text/html
+
+Uri: https://sebastiansicecream.com/sebastians-seasonal-flavors/?add-to-cart=6173
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\sebastians-seasonal-flavors\index-1.htm
+Content Type: text/html
+
+Uri: https://sebastiansicecream.com/wp-content/plugins/advanced-google-recaptcha/assets/css/captcha.min.css?ver=1.0.12
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\plugins\advanced-google-recaptcha\assets\css\captcha.min.css
+Content Type: text/css
+
+Uri: https://sebastiansicecream.com/wp-content/plugins/advanced-product-fields-for-woocommerce/assets/css/frontend.min.css?ver=1.3.4
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\plugins\advanced-product-fields-for-woocommerce\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://sebastiansicecream.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.3.2
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://sebastiansicecream.com/wp-content/plugins/jetpack/css/jetpack.css?ver=8.5.1
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\plugins\jetpack\css\jetpack.css
+Content Type: text/css
+
+Uri: https://sebastiansicecream.com/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=6.1
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\plugins\js_composer\assets\css\js_composer.min.css
+Content Type: text/css
+
+Uri: https://sebastiansicecream.com/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.2.2
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\plugins\revslider\public\assets\css\rs6.css
+Content Type: text/css
+
+Uri: https://sebastiansicecream.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=4.2.5
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\plugins\woocommerce\assets\css\woocommerce-layout.css
+Content Type: text/css
+
+Uri: https://sebastiansicecream.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=4.2.5
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\plugins\woocommerce\assets\css\woocommerce-smallscreen.css
+Content Type: text/css
+
+Uri: https://sebastiansicecream.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=4.2.5
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\plugins\woocommerce\assets\css\woocommerce.css
+Content Type: text/css
+
+Uri: https://sebastiansicecream.com/wp-content/plugins/woocommerce/assets/js/frontend/single-product.min.js?ver=4.2.5
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\plugins\woocommerce\assets\js\frontend\single-product.min.js
+Content Type: application/javascript
+
+Uri: https://sebastiansicecream.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/style.css?ver=2.5.16
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\style.css
+Content Type: text/css
+
+Uri: https://sebastiansicecream.com/wp-content/themes/bakery/assets/css/common.css?ver=2.6
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\themes\bakery\assets\css\common.css
+Content Type: text/css
+
+Uri: https://sebastiansicecream.com/wp-content/themes/bakery/assets/css/woocommerce.css?ver=2.6
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\themes\bakery\assets\css\woocommerce.css
+Content Type: text/css
+
+Uri: https://sebastiansicecream.com/wp-content/themes/bakery/assets/lib/bootstrap-datepicker/bootstrap-datepicker.css?ver=1.5
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\themes\bakery\assets\lib\bootstrap-datepicker\bootstrap-datepicker.css
+Content Type: text/css
+
+Uri: https://sebastiansicecream.com/wp-content/themes/bakery/assets/lib/bootstrap-timepicker/bootstrap-timepicker.min.css?ver=0.2.6
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\themes\bakery\assets\lib\bootstrap-timepicker\bootstrap-timepicker.min.css
+Content Type: text/css
+
+Uri: https://sebastiansicecream.com/wp-content/themes/bakery/assets/lib/bootstrap/css/bootstrap.min.css?ver=3.3.6
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\themes\bakery\assets\lib\bootstrap\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://sebastiansicecream.com/wp-content/themes/bakery/assets/lib/font-awesome/css/all.min.css?ver=5.13.0
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\themes\bakery\assets\lib\font-awesome\css\all.min.css
+Content Type: text/css
+
+Uri: https://sebastiansicecream.com/wp-content/themes/bakery/assets/lib/font-awesome/css/v4-shims.min.css?ver=5.13.0
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\themes\bakery\assets\lib\font-awesome\css\v4-shims.min.css
+Content Type: text/css
+
+Uri: https://sebastiansicecream.com/wp-content/themes/bakery/assets/lib/font-bakery/css/font-bakery.css?ver=2.6
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\themes\bakery\assets\lib\font-bakery\css\font-bakery.css
+Content Type: text/css
+
+Uri: https://sebastiansicecream.com/wp-content/themes/bakery/assets/lib/font-milingona/css/font-milingona.css?ver=1.0
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\themes\bakery\assets\lib\font-milingona\css\font-milingona.css
+Content Type: text/css
+
+Uri: https://sebastiansicecream.com/wp-content/themes/bakery/assets/lib/magnific-popup/magnific-popup.min.css?ver=1.1.0
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\themes\bakery\assets\lib\magnific-popup\magnific-popup.min.css
+Content Type: text/css
+
+Uri: https://sebastiansicecream.com/wp-content/themes/bakery/assets/lib/owl-carousel/owl.carousel.min.css?ver=1.3.3
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\themes\bakery\assets\lib\owl-carousel\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://sebastiansicecream.com/wp-content/themes/bakery/assets/lib/select2/css/select2.min.css?ver=4.0.3
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\themes\bakery\assets\lib\select2\css\select2.min.css
+Content Type: text/css
+
+Uri: https://sebastiansicecream.com/wp-content/themes/bakery/style.css?ver=2.6
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\themes\bakery\style.css
+Content Type: text/css
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2018/08/cropped-Sebastians-Favicon-180x180.png
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2018\08\cropped-Sebastians-Favicon-180x180.png
+Content Type: image/png
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2018/08/cropped-Sebastians-Favicon-192x192.png
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2018\08\cropped-Sebastians-Favicon-192x192.png
+Content Type: image/png
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2018/08/cropped-Sebastians-Favicon-32x32.png
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2018\08\cropped-Sebastians-Favicon-32x32.png
+Content Type: image/png
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/butter-pecan-pint-1-100x100.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\butter-pecan-pint-1-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/butter-pecan-pint-1-150x150.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\butter-pecan-pint-1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/butter-pecan-pint-1-300x300.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\butter-pecan-pint-1-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/butter-pecan-pint-1-600x600.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\butter-pecan-pint-1-600x600.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/butter-pecan-pint-1-768x768.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\butter-pecan-pint-1-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/butter-pecan-pint-1.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\butter-pecan-pint-1.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/Champorado-Dilis-Pint-1-100x100.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\Champorado-Dilis-Pint-1-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/Champorado-Dilis-Pint-1-150x150.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\Champorado-Dilis-Pint-1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/Champorado-Dilis-Pint-1-300x300.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\Champorado-Dilis-Pint-1-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/Champorado-Dilis-Pint-1-600x600.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\Champorado-Dilis-Pint-1-600x600.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/Champorado-Dilis-Pint-1-768x768.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\Champorado-Dilis-Pint-1-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/Champorado-Dilis-Pint-1.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\Champorado-Dilis-Pint-1.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/Champorado-Pint-1-100x100.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\Champorado-Pint-1-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/Champorado-Pint-1-150x150.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\Champorado-Pint-1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/Champorado-Pint-1-300x300.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\Champorado-Pint-1-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/Champorado-Pint-1-600x600.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\Champorado-Pint-1-600x600.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/Champorado-Pint-1-768x768.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\Champorado-Pint-1-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/Champorado-Pint-1.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\Champorado-Pint-1.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/Chocoholics-Anonymous-Pint-2-100x100.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\Chocoholics-Anonymous-Pint-2-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/Chocoholics-Anonymous-Pint-2-150x150.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\Chocoholics-Anonymous-Pint-2-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/Chocoholics-Anonymous-Pint-2-300x300.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\Chocoholics-Anonymous-Pint-2-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/Chocoholics-Anonymous-Pint-2-600x600.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\Chocoholics-Anonymous-Pint-2-600x600.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/Chocoholics-Anonymous-Pint-2-768x768.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\Chocoholics-Anonymous-Pint-2-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/Chocoholics-Anonymous-Pint-2.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\Chocoholics-Anonymous-Pint-2.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/cookie-dough-pint-3-100x100.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\cookie-dough-pint-3-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/cookie-dough-pint-3-150x150.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\cookie-dough-pint-3-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/cookie-dough-pint-3-300x300.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\cookie-dough-pint-3-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/cookie-dough-pint-3-600x600.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\cookie-dough-pint-3-600x600.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/cookie-dough-pint-3-768x768.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\cookie-dough-pint-3-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/cookie-dough-pint-3.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\cookie-dough-pint-3.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/Green-Mango-Bagoong-pint-1-100x100.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\Green-Mango-Bagoong-pint-1-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/Green-Mango-Bagoong-pint-1-150x150.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\Green-Mango-Bagoong-pint-1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/Green-Mango-Bagoong-pint-1-300x300.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\Green-Mango-Bagoong-pint-1-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/Green-Mango-Bagoong-pint-1-600x600.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\Green-Mango-Bagoong-pint-1-600x600.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/Green-Mango-Bagoong-pint-1-768x768.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\Green-Mango-Bagoong-pint-1-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/Green-Mango-Bagoong-pint-1.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\Green-Mango-Bagoong-pint-1.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/manggat-suman-pint-1-100x100.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\manggat-suman-pint-1-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/manggat-suman-pint-1-150x150.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\manggat-suman-pint-1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/manggat-suman-pint-1-300x300.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\manggat-suman-pint-1-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/manggat-suman-pint-1-600x600.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\manggat-suman-pint-1-600x600.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/manggat-suman-pint-1-768x768.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\manggat-suman-pint-1-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/manggat-suman-pint-1.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\manggat-suman-pint-1.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/mango-sansrival-pint-1-100x100.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\mango-sansrival-pint-1-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/mango-sansrival-pint-1-150x150.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\mango-sansrival-pint-1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/mango-sansrival-pint-1-300x300.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\mango-sansrival-pint-1-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/mango-sansrival-pint-1-600x600.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\mango-sansrival-pint-1-600x600.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/mango-sansrival-pint-1-768x768.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\mango-sansrival-pint-1-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/mango-sansrival-pint-1.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\mango-sansrival-pint-1.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/mango-sorbet-pint-1-100x100.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\mango-sorbet-pint-1-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/mango-sorbet-pint-1-150x150.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\mango-sorbet-pint-1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/mango-sorbet-pint-1-300x300.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\mango-sorbet-pint-1-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/mango-sorbet-pint-1-600x600.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\mango-sorbet-pint-1-600x600.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/mango-sorbet-pint-1-768x768.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\mango-sorbet-pint-1-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/mango-sorbet-pint-1.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\mango-sorbet-pint-1.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/Once-in-a-blue-moon-1-100x100.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\Once-in-a-blue-moon-1-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/Once-in-a-blue-moon-1-150x150.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\Once-in-a-blue-moon-1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/Once-in-a-blue-moon-1-300x300.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\Once-in-a-blue-moon-1-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/Once-in-a-blue-moon-1-600x600.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\Once-in-a-blue-moon-1-600x600.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/Once-in-a-blue-moon-1-768x768.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\Once-in-a-blue-moon-1-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/Once-in-a-blue-moon-1.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\Once-in-a-blue-moon-1.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/sapin-sapin-pint-1-100x100.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\sapin-sapin-pint-1-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/sapin-sapin-pint-1-150x150.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\sapin-sapin-pint-1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/sapin-sapin-pint-1-300x300.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\sapin-sapin-pint-1-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/sapin-sapin-pint-1-600x600.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\sapin-sapin-pint-1-600x600.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/sapin-sapin-pint-1-768x768.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\sapin-sapin-pint-1-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/sapin-sapin-pint-1.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\sapin-sapin-pint-1.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/SF-Butter-Pecan-Pint-100x100.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\SF-Butter-Pecan-Pint-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/SF-Butter-Pecan-Pint-150x150.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\SF-Butter-Pecan-Pint-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/SF-Butter-Pecan-Pint-300x300.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\SF-Butter-Pecan-Pint-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/SF-Butter-Pecan-Pint-600x600.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\SF-Butter-Pecan-Pint-600x600.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/SF-Butter-Pecan-Pint-768x768.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\SF-Butter-Pecan-Pint-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/SF-Butter-Pecan-Pint.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\SF-Butter-Pecan-Pint.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/SF-Dark-Choco-Pint-100x100.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\SF-Dark-Choco-Pint-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/SF-Dark-Choco-Pint-150x150.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\SF-Dark-Choco-Pint-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/SF-Dark-Choco-Pint-300x300.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\SF-Dark-Choco-Pint-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/SF-Dark-Choco-Pint-600x600.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\SF-Dark-Choco-Pint-600x600.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/SF-Dark-Choco-Pint-768x768.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\SF-Dark-Choco-Pint-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/SF-Dark-Choco-Pint.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\SF-Dark-Choco-Pint.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/SF-French-Vanilla-100x100.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\SF-French-Vanilla-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/SF-French-Vanilla-150x150.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\SF-French-Vanilla-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/SF-French-Vanilla-300x300.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\SF-French-Vanilla-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/SF-French-Vanilla-600x600.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\SF-French-Vanilla-600x600.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/SF-French-Vanilla-768x768.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\SF-French-Vanilla-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/SF-French-Vanilla.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\SF-French-Vanilla.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/SF-Mocha-Almond-pint-100x100.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\SF-Mocha-Almond-pint-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/SF-Mocha-Almond-pint-150x150.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\SF-Mocha-Almond-pint-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/SF-Mocha-Almond-pint-300x300.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\SF-Mocha-Almond-pint-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/SF-Mocha-Almond-pint-600x600.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\SF-Mocha-Almond-pint-600x600.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/SF-Mocha-Almond-pint-768x768.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\SF-Mocha-Almond-pint-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/SF-Mocha-Almond-pint.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\SF-Mocha-Almond-pint.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/Up-All-Night-Pint-1-100x100.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\Up-All-Night-Pint-1-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/Up-All-Night-Pint-1-150x150.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\Up-All-Night-Pint-1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/Up-All-Night-Pint-1-300x300.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\Up-All-Night-Pint-1-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/Up-All-Night-Pint-1-600x600.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\Up-All-Night-Pint-1-600x600.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/Up-All-Night-Pint-1-768x768.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\Up-All-Night-Pint-1-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/04/Up-All-Night-Pint-1.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\04\Up-All-Night-Pint-1.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/06/Philly-Vanilla-PInt-100x100.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\06\Philly-Vanilla-PInt-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/06/Philly-Vanilla-PInt-150x150.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\06\Philly-Vanilla-PInt-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/06/Philly-Vanilla-PInt-300x300.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\06\Philly-Vanilla-PInt-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/06/Philly-Vanilla-PInt-600x600.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\06\Philly-Vanilla-PInt-600x600.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/06/Philly-Vanilla-PInt-768x768.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\06\Philly-Vanilla-PInt-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2020/06/Philly-Vanilla-PInt.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2020\06\Philly-Vanilla-PInt.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2021/10/Green-Mango-Chili-Sugar-100x100.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2021\10\Green-Mango-Chili-Sugar-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2021/10/Green-Mango-Chili-Sugar-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2021\10\Green-Mango-Chili-Sugar-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2021/10/Green-Mango-Chili-Sugar-150x150.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2021\10\Green-Mango-Chili-Sugar-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2021/10/Green-Mango-Chili-Sugar-1536x1536.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2021\10\Green-Mango-Chili-Sugar-1536x1536.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2021/10/Green-Mango-Chili-Sugar-2048x2048.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2021\10\Green-Mango-Chili-Sugar-2048x2048.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2021/10/Green-Mango-Chili-Sugar-300x300.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2021\10\Green-Mango-Chili-Sugar-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2021/10/Green-Mango-Chili-Sugar-600x600.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2021\10\Green-Mango-Chili-Sugar-600x600.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2021/10/Green-Mango-Chili-Sugar-768x768.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2021\10\Green-Mango-Chili-Sugar-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2021/10/Green-Mango-Chili-Sugar.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2021\10\Green-Mango-Chili-Sugar.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2022/02/SF-Sapin-pint-100x100.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2022\02\SF-Sapin-pint-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2022/02/SF-Sapin-pint-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2022\02\SF-Sapin-pint-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2022/02/SF-Sapin-pint-150x150.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2022\02\SF-Sapin-pint-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2022/02/SF-Sapin-pint-1536x1536.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2022\02\SF-Sapin-pint-1536x1536.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2022/02/SF-Sapin-pint-2048x2048.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2022\02\SF-Sapin-pint-2048x2048.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2022/02/SF-Sapin-pint-300x300.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2022\02\SF-Sapin-pint-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2022/02/SF-Sapin-pint-600x600.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2022\02\SF-Sapin-pint-600x600.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2022/02/SF-Sapin-pint-768x768.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2022\02\SF-Sapin-pint-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2022/02/SF-Sapin-pint.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2022\02\SF-Sapin-pint.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2022/02/SF-tibok-pint-100x100.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2022\02\SF-tibok-pint-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2022/02/SF-tibok-pint-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2022\02\SF-tibok-pint-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2022/02/SF-tibok-pint-150x150.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2022\02\SF-tibok-pint-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2022/02/SF-tibok-pint-1536x1536.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2022\02\SF-tibok-pint-1536x1536.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2022/02/SF-tibok-pint-2048x2048.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2022\02\SF-tibok-pint-2048x2048.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2022/02/SF-tibok-pint-300x300.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2022\02\SF-tibok-pint-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2022/02/SF-tibok-pint-600x600.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2022\02\SF-tibok-pint-600x600.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2022/02/SF-tibok-pint-768x768.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2022\02\SF-tibok-pint-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2022/02/SF-tibok-pint.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2022\02\SF-tibok-pint.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2022/02/SF-ubetopia-pint-100x100.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2022\02\SF-ubetopia-pint-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2022/02/SF-ubetopia-pint-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2022\02\SF-ubetopia-pint-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2022/02/SF-ubetopia-pint-150x150.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2022\02\SF-ubetopia-pint-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2022/02/SF-ubetopia-pint-1536x1536.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2022\02\SF-ubetopia-pint-1536x1536.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2022/02/SF-ubetopia-pint-2048x2048.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2022\02\SF-ubetopia-pint-2048x2048.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2022/02/SF-ubetopia-pint-300x300.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2022\02\SF-ubetopia-pint-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2022/02/SF-ubetopia-pint-600x600.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2022\02\SF-ubetopia-pint-600x600.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2022/02/SF-ubetopia-pint-768x768.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2022\02\SF-ubetopia-pint-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2022/02/SF-ubetopia-pint.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2022\02\SF-ubetopia-pint.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2022/04/00-Strawberry-Summer-Collection-100x100.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2022\04\00-Strawberry-Summer-Collection-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2022/04/00-Strawberry-Summer-Collection-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2022\04\00-Strawberry-Summer-Collection-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2022/04/00-Strawberry-Summer-Collection-150x150.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2022\04\00-Strawberry-Summer-Collection-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2022/04/00-Strawberry-Summer-Collection-1536x1536.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2022\04\00-Strawberry-Summer-Collection-1536x1536.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2022/04/00-Strawberry-Summer-Collection-2048x2048.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2022\04\00-Strawberry-Summer-Collection-2048x2048.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2022/04/00-Strawberry-Summer-Collection-300x300.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2022\04\00-Strawberry-Summer-Collection-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2022/04/00-Strawberry-Summer-Collection-600x600.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2022\04\00-Strawberry-Summer-Collection-600x600.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2022/04/00-Strawberry-Summer-Collection-768x768.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2022\04\00-Strawberry-Summer-Collection-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2022/04/00-Strawberry-Summer-Collection.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2022\04\00-Strawberry-Summer-Collection.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2022/04/03-Strawberry-Sorbet-Cup-100x100.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2022\04\03-Strawberry-Sorbet-Cup-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2022/04/03-Strawberry-Sorbet-Cup-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2022\04\03-Strawberry-Sorbet-Cup-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2022/04/03-Strawberry-Sorbet-Cup-150x150.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2022\04\03-Strawberry-Sorbet-Cup-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2022/04/03-Strawberry-Sorbet-Cup-1536x1536.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2022\04\03-Strawberry-Sorbet-Cup-1536x1536.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2022/04/03-Strawberry-Sorbet-Cup-2046x2048.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2022\04\03-Strawberry-Sorbet-Cup-2046x2048.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2022/04/03-Strawberry-Sorbet-Cup-300x300.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2022\04\03-Strawberry-Sorbet-Cup-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2022/04/03-Strawberry-Sorbet-Cup-600x601.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2022\04\03-Strawberry-Sorbet-Cup-600x601.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2022/04/03-Strawberry-Sorbet-Cup-768x769.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2022\04\03-Strawberry-Sorbet-Cup-768x769.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2022/04/03-Strawberry-Sorbet-Cup.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2022\04\03-Strawberry-Sorbet-Cup.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2022/04/04-Strawberry-Sorbet-Pint-100x100.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2022\04\04-Strawberry-Sorbet-Pint-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2022/04/04-Strawberry-Sorbet-Pint-1024x1020.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2022\04\04-Strawberry-Sorbet-Pint-1024x1020.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2022/04/04-Strawberry-Sorbet-Pint-150x150.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2022\04\04-Strawberry-Sorbet-Pint-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2022/04/04-Strawberry-Sorbet-Pint-1536x1530.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2022\04\04-Strawberry-Sorbet-Pint-1536x1530.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2022/04/04-Strawberry-Sorbet-Pint-2048x2040.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2022\04\04-Strawberry-Sorbet-Pint-2048x2040.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2022/04/04-Strawberry-Sorbet-Pint-300x299.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2022\04\04-Strawberry-Sorbet-Pint-300x299.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2022/04/04-Strawberry-Sorbet-Pint-600x598.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2022\04\04-Strawberry-Sorbet-Pint-600x598.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2022/04/04-Strawberry-Sorbet-Pint-768x765.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2022\04\04-Strawberry-Sorbet-Pint-768x765.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2022/04/04-Strawberry-Sorbet-Pint.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2022\04\04-Strawberry-Sorbet-Pint.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2022/04/05-Strawberry-Supreme-Cup-100x100.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2022\04\05-Strawberry-Supreme-Cup-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2022/04/05-Strawberry-Supreme-Cup-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2022\04\05-Strawberry-Supreme-Cup-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2022/04/05-Strawberry-Supreme-Cup-150x150.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2022\04\05-Strawberry-Supreme-Cup-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2022/04/05-Strawberry-Supreme-Cup-1536x1536.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2022\04\05-Strawberry-Supreme-Cup-1536x1536.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2022/04/05-Strawberry-Supreme-Cup-2046x2048.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2022\04\05-Strawberry-Supreme-Cup-2046x2048.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2022/04/05-Strawberry-Supreme-Cup-300x300.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2022\04\05-Strawberry-Supreme-Cup-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2022/04/05-Strawberry-Supreme-Cup-600x601.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2022\04\05-Strawberry-Supreme-Cup-600x601.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2022/04/05-Strawberry-Supreme-Cup-768x769.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2022\04\05-Strawberry-Supreme-Cup-768x769.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2022/04/05-Strawberry-Supreme-Cup.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2022\04\05-Strawberry-Supreme-Cup.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2022/04/06-Strawberry-supreme-Pint-100x100.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2022\04\06-Strawberry-supreme-Pint-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2022/04/06-Strawberry-supreme-Pint-1020x1024.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2022\04\06-Strawberry-supreme-Pint-1020x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2022/04/06-Strawberry-supreme-Pint-150x150.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2022\04\06-Strawberry-supreme-Pint-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2022/04/06-Strawberry-supreme-Pint-1530x1536.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2022\04\06-Strawberry-supreme-Pint-1530x1536.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2022/04/06-Strawberry-supreme-Pint-2040x2048.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2022\04\06-Strawberry-supreme-Pint-2040x2048.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2022/04/06-Strawberry-supreme-Pint-300x301.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2022\04\06-Strawberry-supreme-Pint-300x301.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2022/04/06-Strawberry-supreme-Pint-600x602.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2022\04\06-Strawberry-supreme-Pint-600x602.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2022/04/06-Strawberry-supreme-Pint-768x771.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2022\04\06-Strawberry-supreme-Pint-768x771.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2022/04/06-Strawberry-supreme-Pint.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2022\04\06-Strawberry-supreme-Pint.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2022/04/Strawberry-supreme-Pint-100x100.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2022\04\Strawberry-supreme-Pint-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2022/04/Strawberry-supreme-Pint-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2022\04\Strawberry-supreme-Pint-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2022/04/Strawberry-supreme-Pint-150x150.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2022\04\Strawberry-supreme-Pint-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2022/04/Strawberry-supreme-Pint-1534x1536.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2022\04\Strawberry-supreme-Pint-1534x1536.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2022/04/Strawberry-supreme-Pint-2045x2048.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2022\04\Strawberry-supreme-Pint-2045x2048.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2022/04/Strawberry-supreme-Pint-300x300.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2022\04\Strawberry-supreme-Pint-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2022/04/Strawberry-supreme-Pint-600x600.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2022\04\Strawberry-supreme-Pint-600x600.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2022/04/Strawberry-supreme-Pint-600x601.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2022\04\Strawberry-supreme-Pint-600x601.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2022/04/Strawberry-supreme-Pint-768x769.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2022\04\Strawberry-supreme-Pint-768x769.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2022/04/Strawberry-supreme-Pint.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2022\04\Strawberry-supreme-Pint.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2023/01/Cookie-dough-explosion-online-store-pint-1467x1536.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2023\01\Cookie-dough-explosion-online-store-pint-1467x1536.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2023/01/Cookie-dough-explosion-online-store-pint-1957x2048.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2023\01\Cookie-dough-explosion-online-store-pint-1957x2048.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2023/01/Cookie-dough-explosion-online-store-pint-287x300.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2023\01\Cookie-dough-explosion-online-store-pint-287x300.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2023/01/Cookie-dough-explosion-online-store-pint-300x314.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2023\01\Cookie-dough-explosion-online-store-pint-300x314.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2023/01/Cookie-dough-explosion-online-store-pint-600x628.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2023\01\Cookie-dough-explosion-online-store-pint-600x628.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2023/01/Cookie-dough-explosion-online-store-pint-768x804.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2023\01\Cookie-dough-explosion-online-store-pint-768x804.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2023/01/Cookie-dough-explosion-online-store-pint-978x1024.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2023\01\Cookie-dough-explosion-online-store-pint-978x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2023/01/leche-flan-con-naranja-online-store-pint-100x100.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2023\01\leche-flan-con-naranja-online-store-pint-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2023/01/leche-flan-con-naranja-online-store-pint-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2023\01\leche-flan-con-naranja-online-store-pint-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2023/01/leche-flan-con-naranja-online-store-pint-150x150.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2023\01\leche-flan-con-naranja-online-store-pint-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2023/01/leche-flan-con-naranja-online-store-pint-1536x1536.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2023\01\leche-flan-con-naranja-online-store-pint-1536x1536.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2023/01/leche-flan-con-naranja-online-store-pint-2048x2048.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2023\01\leche-flan-con-naranja-online-store-pint-2048x2048.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2023/01/leche-flan-con-naranja-online-store-pint-300x300.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2023\01\leche-flan-con-naranja-online-store-pint-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2023/01/leche-flan-con-naranja-online-store-pint-600x600.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2023\01\leche-flan-con-naranja-online-store-pint-600x600.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2023/01/leche-flan-con-naranja-online-store-pint-768x768.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2023\01\leche-flan-con-naranja-online-store-pint-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2023/01/manggang-mangga-online-store-pint-100x100.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2023\01\manggang-mangga-online-store-pint-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2023/01/manggang-mangga-online-store-pint-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2023\01\manggang-mangga-online-store-pint-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2023/01/manggang-mangga-online-store-pint-150x150.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2023\01\manggang-mangga-online-store-pint-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2023/01/manggang-mangga-online-store-pint-1536x1536.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2023\01\manggang-mangga-online-store-pint-1536x1536.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2023/01/manggang-mangga-online-store-pint-2048x2048.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2023\01\manggang-mangga-online-store-pint-2048x2048.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2023/01/manggang-mangga-online-store-pint-300x300.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2023\01\manggang-mangga-online-store-pint-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2023/01/manggang-mangga-online-store-pint-600x600.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2023\01\manggang-mangga-online-store-pint-600x600.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2023/01/manggang-mangga-online-store-pint-768x768.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2023\01\manggang-mangga-online-store-pint-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2023/01/ube-champorado-online-store-pint-100x100.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2023\01\ube-champorado-online-store-pint-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2023/01/ube-champorado-online-store-pint-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2023\01\ube-champorado-online-store-pint-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2023/01/ube-champorado-online-store-pint-150x150.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2023\01\ube-champorado-online-store-pint-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2023/01/ube-champorado-online-store-pint-1536x1536.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2023\01\ube-champorado-online-store-pint-1536x1536.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2023/01/ube-champorado-online-store-pint-2048x2048.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2023\01\ube-champorado-online-store-pint-2048x2048.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2023/01/ube-champorado-online-store-pint-300x300.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2023\01\ube-champorado-online-store-pint-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2023/01/ube-champorado-online-store-pint-600x600.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2023\01\ube-champorado-online-store-pint-600x600.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2023/01/ube-champorado-online-store-pint-768x768.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2023\01\ube-champorado-online-store-pint-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-content/uploads/2023/01/ube-champorado-online-store-pint.jpg
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-content\uploads\2023\01\ube-champorado-online-store-pint.jpg
+Content Type: image/jpeg
+
+Uri: https://sebastiansicecream.com/wp-includes/css/dist/block-library/style.min.css?ver=5.4.12
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://sebastiansicecream.com/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.13-9993131
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-includes\js\mediaelement\mediaelementplayer-legacy.min.css
+Content Type: text/css
+
+Uri: https://sebastiansicecream.com/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=5.4.12
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-includes\js\mediaelement\wp-mediaelement.min.css
+Content Type: text/css
+
+Uri: https://sebastiansicecream.com/wp-json/
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://sebastiansicecream.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsebastiansicecream.com%2F
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://sebastiansicecream.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsebastiansicecream.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://sebastiansicecream.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsebastiansicecream.com%2Fproduct%2Fbutter-pecan%2F
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://sebastiansicecream.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsebastiansicecream.com%2Fproduct%2Fbutter-pecan%2F&format=xml
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://sebastiansicecream.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsebastiansicecream.com%2Fproduct%2Fchamporado%2F
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-json\oembed\1.0\embed-26
+Content Type: application/json
+
+Uri: https://sebastiansicecream.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsebastiansicecream.com%2Fproduct%2Fchamporado%2F&format=xml
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-json\oembed\1.0\embed-27
+Content Type: text/xml
+
+Uri: https://sebastiansicecream.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsebastiansicecream.com%2Fproduct%2Fchamporado-dilis%2F
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-json\oembed\1.0\embed-30
+Content Type: application/json
+
+Uri: https://sebastiansicecream.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsebastiansicecream.com%2Fproduct%2Fchamporado-dilis%2F&format=xml
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-json\oembed\1.0\embed-31
+Content Type: text/xml
+
+Uri: https://sebastiansicecream.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsebastiansicecream.com%2Fproduct%2Fchocoholics-anonymous%2F
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://sebastiansicecream.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsebastiansicecream.com%2Fproduct%2Fchocoholics-anonymous%2F&format=xml
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://sebastiansicecream.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsebastiansicecream.com%2Fproduct%2Fcookie-dough%2F
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://sebastiansicecream.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsebastiansicecream.com%2Fproduct%2Fcookie-dough%2F&format=xml
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://sebastiansicecream.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsebastiansicecream.com%2Fproduct%2Fgreen-mango-bagoong%2F
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-json\oembed\1.0\embed-32
+Content Type: application/json
+
+Uri: https://sebastiansicecream.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsebastiansicecream.com%2Fproduct%2Fgreen-mango-bagoong%2F&format=xml
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-json\oembed\1.0\embed-33
+Content Type: text/xml
+
+Uri: https://sebastiansicecream.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsebastiansicecream.com%2Fproduct%2Fgreen-mango-chili-sugar%2F
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-json\oembed\1.0\embed-50
+Content Type: application/json
+
+Uri: https://sebastiansicecream.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsebastiansicecream.com%2Fproduct%2Fgreen-mango-chili-sugar%2F&format=xml
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-json\oembed\1.0\embed-51
+Content Type: text/xml
+
+Uri: https://sebastiansicecream.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsebastiansicecream.com%2Fproduct%2Fmanggat-suman%2F
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-json\oembed\1.0\embed-28
+Content Type: application/json
+
+Uri: https://sebastiansicecream.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsebastiansicecream.com%2Fproduct%2Fmanggat-suman%2F&format=xml
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-json\oembed\1.0\embed-29
+Content Type: text/xml
+
+Uri: https://sebastiansicecream.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsebastiansicecream.com%2Fproduct%2Fmango-sansrival%2F
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://sebastiansicecream.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsebastiansicecream.com%2Fproduct%2Fmango-sansrival%2F&format=xml
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://sebastiansicecream.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsebastiansicecream.com%2Fproduct%2Fmango-sorbet%2F
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: https://sebastiansicecream.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsebastiansicecream.com%2Fproduct%2Fmango-sorbet%2F&format=xml
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: https://sebastiansicecream.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsebastiansicecream.com%2Fproduct%2Fonce-in-a-blue-moon%2F
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-json\oembed\1.0\embed-52
+Content Type: application/json
+
+Uri: https://sebastiansicecream.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsebastiansicecream.com%2Fproduct%2Fonce-in-a-blue-moon%2F&format=xml
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-json\oembed\1.0\embed-53
+Content Type: text/xml
+
+Uri: https://sebastiansicecream.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsebastiansicecream.com%2Fproduct%2Fphilly-vanilla%2F
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: https://sebastiansicecream.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsebastiansicecream.com%2Fproduct%2Fphilly-vanilla%2F&format=xml
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: https://sebastiansicecream.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsebastiansicecream.com%2Fproduct%2Fsapin-sapin%2F
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-json\oembed\1.0\embed-24
+Content Type: application/json
+
+Uri: https://sebastiansicecream.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsebastiansicecream.com%2Fproduct%2Fsapin-sapin%2F&format=xml
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-json\oembed\1.0\embed-25
+Content Type: text/xml
+
+Uri: https://sebastiansicecream.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsebastiansicecream.com%2Fproduct%2Fstrawberry-sorbet%2F
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: https://sebastiansicecream.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsebastiansicecream.com%2Fproduct%2Fstrawberry-sorbet%2F&format=xml
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: https://sebastiansicecream.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsebastiansicecream.com%2Fproduct%2Fstrawberry-supreme-2%2F
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://sebastiansicecream.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsebastiansicecream.com%2Fproduct%2Fstrawberry-supreme-2%2F&format=xml
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://sebastiansicecream.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsebastiansicecream.com%2Fproduct%2Fsweet-freedom-butter-pecan%2F
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-json\oembed\1.0\embed-42
+Content Type: application/json
+
+Uri: https://sebastiansicecream.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsebastiansicecream.com%2Fproduct%2Fsweet-freedom-butter-pecan%2F&format=xml
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-json\oembed\1.0\embed-43
+Content Type: text/xml
+
+Uri: https://sebastiansicecream.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsebastiansicecream.com%2Fproduct%2Fsweet-freedom-dark-chocolate%2F
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-json\oembed\1.0\embed-38
+Content Type: application/json
+
+Uri: https://sebastiansicecream.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsebastiansicecream.com%2Fproduct%2Fsweet-freedom-dark-chocolate%2F&format=xml
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-json\oembed\1.0\embed-39
+Content Type: text/xml
+
+Uri: https://sebastiansicecream.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsebastiansicecream.com%2Fproduct%2Fsweet-freedom-mocha-almond%2F
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-json\oembed\1.0\embed-34
+Content Type: application/json
+
+Uri: https://sebastiansicecream.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsebastiansicecream.com%2Fproduct%2Fsweet-freedom-mocha-almond%2F&format=xml
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-json\oembed\1.0\embed-35
+Content Type: text/xml
+
+Uri: https://sebastiansicecream.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsebastiansicecream.com%2Fproduct%2Fsweet-freedom-sapin-sapin%2F
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-json\oembed\1.0\embed-44
+Content Type: application/json
+
+Uri: https://sebastiansicecream.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsebastiansicecream.com%2Fproduct%2Fsweet-freedom-sapin-sapin%2F&format=xml
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-json\oembed\1.0\embed-45
+Content Type: text/xml
+
+Uri: https://sebastiansicecream.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsebastiansicecream.com%2Fproduct%2Fsweet-freedom-tibok-tibok%2F
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-json\oembed\1.0\embed-36
+Content Type: application/json
+
+Uri: https://sebastiansicecream.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsebastiansicecream.com%2Fproduct%2Fsweet-freedom-tibok-tibok%2F&format=xml
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-json\oembed\1.0\embed-37
+Content Type: text/xml
+
+Uri: https://sebastiansicecream.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsebastiansicecream.com%2Fproduct%2Fsweet-freedom-ubetopia%2F
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-json\oembed\1.0\embed-46
+Content Type: application/json
+
+Uri: https://sebastiansicecream.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsebastiansicecream.com%2Fproduct%2Fsweet-freedom-ubetopia%2F&format=xml
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-json\oembed\1.0\embed-47
+Content Type: text/xml
+
+Uri: https://sebastiansicecream.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsebastiansicecream.com%2Fproduct%2Fsweet-freedom-vanilla%2F
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-json\oembed\1.0\embed-40
+Content Type: application/json
+
+Uri: https://sebastiansicecream.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsebastiansicecream.com%2Fproduct%2Fsweet-freedom-vanilla%2F&format=xml
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-json\oembed\1.0\embed-41
+Content Type: text/xml
+
+Uri: https://sebastiansicecream.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsebastiansicecream.com%2Fproduct%2Fube-champorado%2F
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://sebastiansicecream.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsebastiansicecream.com%2Fproduct%2Fube-champorado%2F&format=xml
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://sebastiansicecream.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsebastiansicecream.com%2Fproduct%2Fup-all-night%2F
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://sebastiansicecream.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsebastiansicecream.com%2Fproduct%2Fup-all-night%2F&format=xml
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://sebastiansicecream.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsebastiansicecream.com%2Fsebastians-artisan-icecream%2F
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-json\oembed\1.0\embed-48
+Content Type: application/json
+
+Uri: https://sebastiansicecream.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsebastiansicecream.com%2Fsebastians-artisan-icecream%2F&format=xml
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-json\oembed\1.0\embed-49
+Content Type: text/xml
+
+Uri: https://sebastiansicecream.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsebastiansicecream.com%2Fsebastians-seasonal-flavors%2F
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://sebastiansicecream.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsebastiansicecream.com%2Fsebastians-seasonal-flavors%2F&format=xml
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://sebastiansicecream.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\sebastiansicecream.com\xmlrpc.php
+Content Type: text/xml
+
